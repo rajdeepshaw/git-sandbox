@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T04:00:37.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0cX_4-x9EXxjGX1aV-Bv" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T05:22:19.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QiIrj2oNqWhzkNVF9MPa" version="17.4.0" type="github">
   <diagram id="ANK8yeU2HxZxUtk9vQTT" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,21 @@
         </mxCell>
         <mxCell id="JRItzg8ENbcsubA8IzQK-50" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Food/Retail Storage&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="192.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JRItzg8ENbcsubA8IzQK-51" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Puja Area&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="363" y="957.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JRItzg8ENbcsubA8IzQK-52" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Planning Area&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="357" y="193" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JRItzg8ENbcsubA8IzQK-53" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Women Beauty&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-421.5" y="853" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JRItzg8ENbcsubA8IzQK-54" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Eye/Dental&lt;br&gt;Maintenance&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="951.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JRItzg8ENbcsubA8IzQK-55" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Men Appearance&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="732.5" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
