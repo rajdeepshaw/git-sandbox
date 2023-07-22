@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T04:29:58.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C6ppWZ_A02cE4awFCofP" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-22T05:16:36.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LfTgHd3HEZDwJZC9gLjR" version="21.6.5" type="github" pages="3">
   <diagram id="ANK8yeU2HxZxUtk9vQTT" name="Page-1">
     <mxGraphModel dx="2501" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1380,40 +1380,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-141" value="House Outside-Lamp Repair" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="606.5" y="945" width="163.5" height="40" as="geometry" />
+          <mxGeometry x="620" y="945" width="163.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-142" value="Switch Upgrade" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="471.5" y="950" width="120" height="40" as="geometry" />
+          <mxGeometry x="491.25" y="950" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-143" value="Socket Upgrade" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="406.5" y="1005" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-144" value="Inverter Line Provision" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1065" width="131.5" height="40" as="geometry" />
+          <mxGeometry x="330" y="1052.5" width="131.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-145" value="Meter-Box Coloring" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="331.5" y="1120" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="1110" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-146" value="Lilac" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="346.5" y="1185" width="120" height="40" as="geometry" />
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-146" value="Walkie-Talkie Installation" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="290" y="1172.5" width="150.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-147" value="Dandelion" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="381.5" y="1247.5" width="120" height="40" as="geometry" />
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-147" value="Old Electrical Waste Disposal&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="300" y="1237.5" width="171.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-148" value="Poppy" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="451.5" y="1297.5" width="120" height="40" as="geometry" />
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-148" value="Kitchen Induction Installment" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="391.75" y="1297.5" width="171.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-149" value="Gerbera" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="561.5" y="1352.5" width="120" height="40" as="geometry" />
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-149" value="Terrace Outside Socket-Protection Upgrade" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1350" width="248.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-150" value="Orchid" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-150" value="Wire Management" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="686.5" y="1287.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-151" value="Gladiola" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="746.5" y="1220" width="120" height="40" as="geometry" />
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-151" value="Terrace Outside Tank Wire Upgrade" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="710" y="1207.5" width="213.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-152" value="Rose" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="766.5" y="1124.5" width="120" height="40" as="geometry" />
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-152" value="Terrace Lamp Upgrade" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="766.5" y="1124.5" width="143.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-153" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;rounded=0;" parent="1" source="GWPwKtOTdINo5ajtDaoG-7" target="GWPwKtOTdINo5ajtDaoG-152" edge="1">
           <mxGeometry x="171.5" y="-10" width="100" height="100" as="geometry">
