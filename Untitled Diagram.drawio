@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T04:28:52.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g5Bg-wU8_nI5dufm9kmY" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-22T04:29:58.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C6ppWZ_A02cE4awFCofP" version="21.6.5" type="github" pages="3">
   <diagram id="ANK8yeU2HxZxUtk9vQTT" name="Page-1">
     <mxGraphModel dx="2501" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1509,7 +1509,7 @@
           <mxGeometry x="497.5" y="580" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-172" value="Entry Floor Replacement" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="522.5" y="660" width="147.5" height="40" as="geometry" />
+          <mxGeometry x="527.75" y="650" width="147.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-173" value="Tubelight Replacement" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="30" y="600" width="140" height="40" as="geometry" />
