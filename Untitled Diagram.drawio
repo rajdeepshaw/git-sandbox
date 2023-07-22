@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T04:02:35.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lwtMWuH2pcrUqQl-tTjl" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-22T04:14:07.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nOpRqCUWCnw9x0hXfPXQ" version="21.6.5" type="github" pages="3">
   <diagram id="ANK8yeU2HxZxUtk9vQTT" name="Page-1">
     <mxGraphModel dx="2501" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1494,7 +1494,7 @@
           <mxGeometry x="944" y="615" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-167" value="Home Entrance" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="295" y="660" width="120" height="120" as="geometry" />
+          <mxGeometry x="295.75" y="645" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-168" value="Light Bulb Replacement" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="185" y="560" width="145" height="40" as="geometry" />
@@ -1520,7 +1520,7 @@
         <mxCell id="GWPwKtOTdINo5ajtDaoG-175" value="Wooden Window + Door Repair &amp;amp; Maintenance&amp;nbsp;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="405" y="830" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWPwKtOTdINo5ajtDaoG-176" value="Beech" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="GWPwKtOTdINo5ajtDaoG-176" value="Floor Cleaning" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="265" y="830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-177" value="Poplar" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
