@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:28:16.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iJgY_2ch9uigRPZDwQKr" version="21.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:38:47.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SIv-vcrYlUAqf_2m4KkO" version="21.6.5" type="github" pages="3">
   <diagram id="ANK8yeU2HxZxUtk9vQTT" name="Page-1">
     <mxGraphModel dx="2501" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -774,7 +774,7 @@
           <mxGeometry x="1086.5" y="180" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-3" value="Back Room" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1684" y="295" width="120" height="120" as="geometry" />
+          <mxGeometry x="1704.5" y="270" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-4" value="Middle Room" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1919" y="740" width="131" height="125" as="geometry" />
@@ -1041,10 +1041,10 @@
           <mxGeometry x="1524" y="230" width="136" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-67" value="Wall-Cabinet Installation" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1614" y="160" width="146" height="40" as="geometry" />
+          <mxGeometry x="1594" y="170" width="146" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-68" value="Wooden Window + Door Repair &amp;amp; Maintenance&amp;nbsp;" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1749" y="105" width="271" height="40" as="geometry" />
+          <mxGeometry x="1755" y="130" width="271" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWPwKtOTdINo5ajtDaoG-69" value="Dinning Floor Replacement" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1860" y="190" width="166" height="40" as="geometry" />
